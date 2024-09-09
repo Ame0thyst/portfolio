@@ -13,10 +13,10 @@ const Home = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.
           </p>
           <div className="flex mt-4 space-x-4">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition duration-300">
+            <a href="https://github.com/Ame0thyst/" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition duration-300">
               <FaGithub size={30} />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-blue-500 transition duration-300">
+            <a href="https://www.linkedin.com/in/gilangikoo/" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-blue-500 transition duration-300">
               <FaLinkedin size={30} />
             </a>
           </div>
